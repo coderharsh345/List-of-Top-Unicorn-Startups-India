@@ -129,13 +129,13 @@ Y Combinator (YC) is a startup fund and program. Since 2005, YC has invested in 
 
 #
 <p align="center">
-	<a href="https://github.com/ghoshsuman845" alt="Github" title="github">
+	<a href="https://github.com/coderharsh345" alt="Github" title="github">
        <img src="https://img.shields.io/badge/Follow_Me_For_More_Useful_Repos-15k?style=for-the-badge&color=EF2D5E&logo=github&logoColor=fff"/>
     </a>
-    <a href="https://github.com/ghoshsuman845/ghoshsuman845" alt="Github Stars" title="Star Mark Repo">
+    <a href="https://github.com/coderharsh345" alt="Github Stars" title="Star Mark Repo">
         <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
     </a>
-    <a href="https://www.linkedin.com/in/ghoshsuman0129/">
+    <a href="https://www.linkedin.com/in/harsh-gupta-595002194/">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
 </p>
